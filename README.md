@@ -2,8 +2,7 @@
 
 A personal portfolio website built to showcase my skills, projects, and experience as a full-stack developer.
 
-🔗 **Live Site**: [your-deployed-link-here]
-
+🔗 **Live Site**:
 ## 🛠️ Tech Stack
 
 - React + TypeScript
