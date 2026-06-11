@@ -2,7 +2,10 @@
 
 A personal portfolio website built to showcase my skills, projects, and experience as a full-stack developer.
 
-🔗 **Live Site**:
+## 👩‍💻 About Me
+Final year student of AIDS (Artificial Intelligence & Data Science) at DYPIEMR.
+Passionate about MERN Stack and PHP development.
+
 ## 🛠️ Tech Stack
 
 - React + TypeScript
